@@ -1,0 +1,2 @@
+Filesystem visualizer – Aplicație similară cu mc 
+-Se implemezteaza un program similar utilitarului mc (Midnight Commander), cu scopul de a vizualiza sistemul de fișiere dintr-un sistem Linux într-o interfață grafică folosind biblioteca ncurses. Este suficientă vizualizarea într-o singură fereastra (mc dispune de 2 ferestre). Se implementeaza facilități precum: copierea de fișiere, mutarea de fișiere, ștergerea de fișiere 
